@@ -52,8 +52,8 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">Capacity</p>
-                      <CardTitle tag="p">150GB</CardTitle>
+                      <p className="card-category">Lives lost due to natural disasters in the last 20 years</p>
+                      <CardTitle tag="p">Over 80,000</CardTitle>
                       <p />
                     </div>
                   </Col>
@@ -62,7 +62,7 @@ function Dashboard() {
               <CardFooter>
                 <hr />
                 <div className="stats">
-                  <i className="fas fa-sync-alt" /> Update Now
+                  <i className="fas fa-sync-alt" /> Indian
                 </div>
               </CardFooter>
             </Card>
@@ -78,8 +78,8 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">Revenue</p>
-                      <CardTitle tag="p">$ 1,345</CardTitle>
+                      <p className="card-category">Total Economic loss due to the 2020 floods</p>
+                      <CardTitle tag="p">₹52,500 crore</CardTitle>
                       <p />
                     </div>
                   </Col>
@@ -104,8 +104,8 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">Errors</p>
-                      <CardTitle tag="p">23</CardTitle>
+                      <p className="card-category">Floods are the most commonly occuring natural diaster</p>
+                      <CardTitle tag="p">Followed by cyclones</CardTitle>
                       <p />
                     </div>
                   </Col>
@@ -130,8 +130,8 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category">Followers</p>
-                      <CardTitle tag="p">+45K</CardTitle>
+                      <p className="card-category">Diaster Relief Fund</p>
+                      <CardTitle tag="p">₹252 crore</CardTitle>
                       <p />
                     </div>
                   </Col>
@@ -140,7 +140,7 @@ function Dashboard() {
               <CardFooter>
                 <hr />
                 <div className="stats">
-                  <i className="fas fa-sync-alt" /> Update now
+                  <i className="fas fa-sync-alt" /> As of 2021
                 </div>
               </CardFooter>
             </Card>
